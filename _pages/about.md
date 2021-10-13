@@ -22,9 +22,9 @@ Hello! I am a Ph.D. candidate in economics at Indiana University Bloomington. I 
 <br/><br/>
   
 **<span style="color:#990000"> RESEARCH INTERESTS </span>** 
-- Research Fields: International Trade, Trade Policy Uncertainty, 
-International Finance
-- Methods: Applied Econometrics, Text Analysis  
+- Primary Fields: International Trade, Trade Policy Uncertainty
+- Secondary Fields: International Finance, Applied Econometrics
+- Methods: Text Analysis, Machine Learning
 <br/>
 
 **<span style="color:#990000"> CONTACT INFORMATION </span>**   
