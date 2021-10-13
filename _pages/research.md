@@ -18,7 +18,7 @@ nav: true
 
 <br/>
 ##### **<span style="color:#990000">Work in Progress</span>**
-***Trade Finance and Transportation Model***, *with Adina Ardelean and Volodymyr Lugovskyy*
+***Trade Finance and Transportation Modes***, *with Adina Ardelean and Volodymyr Lugovskyy*
 
 
 
