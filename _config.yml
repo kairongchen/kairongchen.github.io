@@ -2,6 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
+# bundle exec jekyll serve --livereload
+
+
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Kairong 
 middle_name: 

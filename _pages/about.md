@@ -6,7 +6,7 @@ description: <i>Ph.D. Candidate, <a href="https://economics.indiana.edu/index.ht
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: webphoto_chen.jpg
   # address: >
   #   <p>Phone: +1 (812) 955-1149</p>
   #   <p>Wylie Hall 105</p>
