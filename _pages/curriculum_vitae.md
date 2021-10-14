@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-Download a pdf file of my [CV](https://drive.google.com/file/d/1N8TgeMvfV0YtdrAHb4WzuXnwVlqEnXWv/view?usp=sharing)
+Download a pdf file of my [CV](../assets/pdf/cv_Chen_Kairong_iu.pdf)
 
 
 <!-- <embed src="https://drive.google.com/file/d/1N8TgeMvfV0YtdrAHb4WzuXnwVlqEnXWv/view?usp=sharing" width="600px" height="500px" />  -->

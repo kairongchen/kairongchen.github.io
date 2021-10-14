@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 Hello! I am a Ph.D. candidate in economics at Indiana University Bloomington. I expect to graduate in May 2022 and will be available for interviews at the 2022 ASSA virtual meeting.
 <br/>
 
-[**<span style="color:#990000"> Curriculum Vitae </span>**](https://drive.google.com/file/d/1N8TgeMvfV0YtdrAHb4WzuXnwVlqEnXWv/view?usp=sharing)
+[**<span style="color:#990000"> Curriculum Vitae </span>**](../assets/pdf/cv_Chen_Kairong_iu.pdf)
 <br/>
   
 **<span style="color:#990000"> RESEARCH INTERESTS </span>** 
