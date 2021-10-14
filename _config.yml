@@ -71,11 +71,11 @@ stackoverflow_id: #your stackoverflow id
 
 rss_icon: false
 
-contact_note: >
+contact_note: 
   
 
 google_analytics: G-W6VHNLL3ZM # out your google-analytics code
-panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
+panelbear_analytics: # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
 # Blog
