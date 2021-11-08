@@ -18,11 +18,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am a Ph.D. candidate in economics at Indiana University Bloomington. I expect to graduate in May 2022 and will be available for interviews at the 2022 ASSA virtual meeting.
+Hello! I am a Ph.D. candidate in economics at Indiana University Bloomington. 
+
+I am currently on the job market for 2021-2022 and will be available for interviews at the 2022 ASSA virtual meeting.
 <br/>
 
 [**<span style="color:#990000"> Curriculum Vitae </span>**](../assets/pdf/cv_Chen_Kairong_iu.pdf)
-<br/>
+<br/><br/>
   
 **<span style="color:#990000"> RESEARCH INTERESTS </span>** 
 - Primary Fields: International Trade, Trade Policy Uncertainty
