@@ -7,7 +7,7 @@ nav: true
 ---
 
 ##### **<span style="color:#990000">Working Papers</span>**
-
+<br/>
 ***[Trade Policy Uncertainty: Measurement and Impacts on US firms in Global Value Chains](../assets/pdf/Chen_Kairong_JMP.pdf)*** \\
 <i>(Job Market Paper)</i> 
 <div style="text-align: justify">  <i>Abstract:</i> This paper studies the effects of trade policy uncertainty (TPU) on the US firms' global value chain links. I adapt a text-based method to construct new measures of trade policy shocks perceived by the US firms. I validate the TPU measure by showing that it correctly identifies text containing discussions on uncertainty about trade policy, that it varies intuitively over time and across sectors, and that it correlates with the firm's responses in investment and inventory in a manner that is highly indicative of trade policy uncertainty. High trade policy uncertainty deters capital investment and induces temporary stockpiling. These results continue to hold after controlling for news about the mean of trade policy shocks, and are robust to other investment and inventory variables. I then explore the impact on the firms' reliance on foreign relationships. Using the firm-level data on global supply chain relationships in 2010-2019, I find that TPU is negatively associated with the US firms' foreign customer ratios. The effects are more pronounced on downstream firms than upstream firms. By contrast, no association between TPU and foreign supplier ratios is found, probably due to the firms' additional offshoring behavior in the trade war.  </div>
