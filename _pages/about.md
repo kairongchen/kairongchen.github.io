@@ -28,8 +28,7 @@ I am currently on the job market for 2021-2022 and will be available for intervi
   
 **<span style="color:#990000"> RESEARCH INTERESTS </span>** 
 - Primary Fields: International Trade, Trade Policy Uncertainty
-- Secondary Fields: International Finance, Applied Econometrics
-- Methods: Textual Analysis, Machine Learning
+- Secondary Fields: International Finance, Applied Econometrics, Textual Analysis
 <br/>
 
 **<span style="color:#990000"> CONTACT INFORMATION </span>**   
