@@ -13,7 +13,7 @@ nav: true
 
 <br/>
 
-***Dynamic Effects of Trade Policy and Capital Control: A Terms-of-Trade Manipulation Perspective*** \\
+***[Dynamic Effects of Trade Policy and Capital Control: A Terms-of-Trade Manipulation Perspective](../assets/pdf/Chen_Kairong_dynamic.pdf)*** \\
 *Abstract:*  This paper studies the interaction between trade policy and capital control policy from a terms-of-trade manipulation perspective. I extend the dynamic two-country multi-good endowment economy in Costinot, Lorenzoni, and Werning (2014) with trade taxes/subsidies. Home country chooses optimal taxes on all tradable goods and international capital flows in order to maximize domestic welfare, while the foreign country is passive. When only good-specific trade taxes/subsidies are available, Home has an incentive to manipulate tariffs to depreciate its real exchange rate, if it has a faster-growing endowment than the Foreign. Moreover, I find that taxing capital inflow/subsidizing capital outflow is equivalent to a uniform reduction in gross trade tariffs on all goods. There is no need for capital controls if the government can get access to good-specific tariffs/subsidies.
 
 <br/>
