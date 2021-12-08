@@ -1,4 +1,4 @@
-source 'https://github.com/ruby/setup-ruby'
+source 'https://rubygems.org'
 group :jekyll_plugins do
     gem 'jekyll'
     gem 'jekyll-diagrams'
@@ -13,5 +13,4 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'webrick'
-    gen 'github-pages'
 end
