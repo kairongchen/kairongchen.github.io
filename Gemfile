@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'https://github.com/ruby/setup-ruby'
 group :jekyll_plugins do
     gem 'jekyll'
     gem 'jekyll-diagrams'
